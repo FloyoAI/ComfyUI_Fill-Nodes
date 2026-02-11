@@ -231,7 +231,6 @@ NODE_CLASS_MAPPINGS = {
     "FL_GeminiVideoCaptioner": FL_GeminiVideoCaptioner,
     "FL_GeminiImageEditor": FL_GeminiImageEditor,
     "FL_GPT_Image1": FL_GPT_Image1,
-    "FL_CodeNode": FL_CodeNode,
     "FL_ImagePixelator": FL_ImagePixelator,
     "FL_ImageAddToBatch": FL_ImageAddToBatch,
     "FL_DirectoryCrawl": FL_DirectoryCrawl,
