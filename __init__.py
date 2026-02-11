@@ -419,7 +419,6 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "FL_GeminiVideoCaptioner": "FL Gemini Video Captioner",
     "FL_GeminiImageEditor": "FL Gemini Image Editor",
     "FL_GPT_Image1": "FL GPT Image-1",
-    "FL_CodeNode": "FL Code Node",
     "FL_ImagePixelator": "FL Image Pixelator",
     "FL_ImageAddToBatch": "FL Image Add To Batch",
     "FL_DirectoryCrawl": "FL Directory Crawl",
