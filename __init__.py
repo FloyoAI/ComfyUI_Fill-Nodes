@@ -155,7 +155,6 @@ from .nodes.prompting.FL_PromptSelectorBasic import FL_PromptSelectorBasic
 
 # UTILITY NODES
 from .nodes.utility.FL_ClipScanner import FL_ClipScanner
-from .nodes.utility.FL_Code_Node import FL_CodeNode
 from .nodes.utility.FL_DirectoryCrawl import FL_DirectoryCrawl
 from .nodes.utility.FL_Float import FL_Float
 from .nodes.utility.FL_InpaintCrop import FL_InpaintCrop
